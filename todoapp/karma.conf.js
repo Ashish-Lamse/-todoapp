@@ -11,6 +11,7 @@ module.exports = function(config) {
       'components/**/*.js',
       'view*/**/*.js'
     ],
+
     exclude:[
       'bower_components/angular/angular.js',
       'bower_components/angular-route/angular-route.js',
